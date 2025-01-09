@@ -1,0 +1,21 @@
+/* Set the foreground color value to #161616 for the body */
+body {
+    color: #161616;
+}
+/* Set the foreground color value to #161616 for all anchor elements */
+a {
+    color: #161616;
+}
+/* Set display to none for all elements with the class visually-hidden */
+.visually-hidden {
+    display: none;
+}
+/*card-category Set the foreground color value to #D73953*/
+.card-category {
+    color: #D73953;
+}
+/*section-tagline Set the foreground color value to #D73953 for all elements*/
+.section-tagline {
+    color: #D73953;
+}
+  
